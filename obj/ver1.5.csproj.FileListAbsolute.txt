@@ -1,0 +1,7 @@
+g:\HandWriting\ver1.5\ver1.5\obj\Debug\ResolveAssemblyReference.cache
+g:\HandWriting\ver1.5\ver1.5\obj\Debug\ver1._5.Properties.Resources.resources
+g:\HandWriting\ver1.5\ver1.5\obj\Debug\ver1.5.csproj.GenerateResource.Cache
+g:\HandWriting\ver1.5\ver1.5\bin\Debug\ver1.5.exe
+g:\HandWriting\ver1.5\ver1.5\bin\Debug\ver1.5.pdb
+g:\HandWriting\ver1.5\ver1.5\obj\Debug\ver1.5.exe
+g:\HandWriting\ver1.5\ver1.5\obj\Debug\ver1.5.pdb
